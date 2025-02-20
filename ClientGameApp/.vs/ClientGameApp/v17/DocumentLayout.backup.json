@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net Apps\\Game\\ClientGameApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\lobbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\lobbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\lobbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\lobbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\playingroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\playingroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\playingroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\playingroomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\selectroomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\selectroomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|e:\\.net apps\\game\\clientgameapp\\clientgameapp\\playingroomform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D99FC-FD37-478F-AF3D-70B1FA984088}|ClientGameApp\\ClientGameApp.csproj|solutionrelative:clientgameapp\\playingroomform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 295,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LobbyForm.cs",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\LobbyForm.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\LobbyForm.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\LobbyForm.cs",
+              "RelativeToolTip": "ClientGameApp\\LobbyForm.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAvwJ0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:55:17.938Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LobbyForm.cs [Design]",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\LobbyForm.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\LobbyForm.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\LobbyForm.cs [Design]",
+              "RelativeToolTip": "ClientGameApp\\LobbyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:52:29.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayingRoomForm.cs [Design]",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\PlayingRoomForm.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.cs [Design]",
+              "RelativeToolTip": "ClientGameApp\\PlayingRoomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:17:00.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayingRoomForm.cs",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\PlayingRoomForm.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.cs",
+              "RelativeToolTip": "ClientGameApp\\PlayingRoomForm.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAswGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:23:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SelectRoomType.cs",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\SelectRoomType.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\SelectRoomType.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\SelectRoomType.cs",
+              "RelativeToolTip": "ClientGameApp\\SelectRoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:57:59.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALYUAAAAAAAAAAAqwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-19T20:26:22.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayingRoomForm.Designer.cs",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientGameApp\\PlayingRoomForm.Designer.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\ClientGameApp\\ClientGameApp\\PlayingRoomForm.Designer.cs",
+              "RelativeToolTip": "ClientGameApp\\PlayingRoomForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:03:39.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

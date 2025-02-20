@@ -1,0 +1,14 @@
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\bin\Debug\net8.0\Guss-Name-Server-App.exe
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\bin\Debug\net8.0\Guss-Name-Server-App.deps.json
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\bin\Debug\net8.0\Guss-Name-Server-App.runtimeconfig.json
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\bin\Debug\net8.0\Guss-Name-Server-App.dll
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\bin\Debug\net8.0\Guss-Name-Server-App.pdb
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.AssemblyInfoInputs.cache
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.AssemblyInfo.cs
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.csproj.CoreCompileInputs.cache
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.dll
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\refint\Guss-Name-Server-App.dll
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.pdb
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\Guss-Name-Server-App.genruntimeconfig.cache
+E:\.Net Apps\Game\Guss-Name-Server-App\Guss-Name-Server-App\obj\Debug\net8.0\ref\Guss-Name-Server-App.dll

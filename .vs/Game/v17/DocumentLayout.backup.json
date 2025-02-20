@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net Apps\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D19D39-0D6E-4CC8-95DE-9AAC99D144B4}|test-game\\test-game.csproj|e:\\.net apps\\game\\test-game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D19D39-0D6E-4CC8-95DE-9AAC99D144B4}|test-game\\test-game.csproj|solutionrelative:test-game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D19D39-0D6E-4CC8-95DE-9AAC99D144B4}|test-game\\test-game.csproj|e:\\.net apps\\game\\test-game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6D19D39-0D6E-4CC8-95DE-9AAC99D144B4}|test-game\\test-game.csproj|solutionrelative:test-game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\test-game\\Form1.cs",
+              "RelativeDocumentMoniker": "test-game\\Form1.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\test-game\\Form1.cs",
+              "RelativeToolTip": "test-game\\Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:18:34.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\.Net Apps\\Game\\test-game\\Form1.cs",
+              "RelativeDocumentMoniker": "test-game\\Form1.cs",
+              "ToolTip": "E:\\.Net Apps\\Game\\test-game\\Form1.cs [Design]",
+              "RelativeToolTip": "test-game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:09:13.423Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
